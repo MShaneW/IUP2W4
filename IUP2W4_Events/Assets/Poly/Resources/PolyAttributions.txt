@@ -5,3 +5,9 @@ Author: nate insolitum
 URL: https://poly.google.com/view/0_nEZSzVNwm
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: AV- HP Great Hall
+Author: Scott Marshall
+URL: https://poly.google.com/view/3JhpUZAh0Bl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
